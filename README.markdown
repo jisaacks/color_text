@@ -15,6 +15,6 @@ Available colors
 
 ###Steps
  
- 1. `$> gem install color_gem` *#Install the gem*
+ 1. `$> gem install color_text` *#Install the gem*
  2. `require 'color_text'` *#Include the gem*
  3. **Your ready to start using.**
