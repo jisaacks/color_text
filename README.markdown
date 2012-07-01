@@ -2,7 +2,7 @@
 
 ###Usage example:
 
-	"my string".red
+	puts "my string".red
 
 Available colors
 
