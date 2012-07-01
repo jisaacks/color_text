@@ -14,6 +14,7 @@ Available colors
  - purple
 
 ###Steps
-
- 1. `require 'color_text'` *#Include the gem*
- 2. **Your ready to start using.**
+ 
+ 1. `$> gem install color_gem` *#Install the gem*
+ 2. `require 'color_text'` *#Include the gem*
+ 3. **Your ready to start using.**
