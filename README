@@ -1,0 +1,19 @@
+##Easily make text output to the terminal in color
+
+###Usage example:
+
+	"my string".red
+
+Available colors
+
+ - gray
+ - red
+ - green
+ - yellow
+ - blue
+ - purple
+
+###Steps
+
+ 1. `require 'color_text'` *#Include the gem*
+ 2. **Your ready to start using.**
