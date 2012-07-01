@@ -2,13 +2,13 @@ module ColorText
   def colorize(text, color_code)
     "\e[#{color_code}m#{text}\e[0m"
   end
-  GRAY = 30
-  RED = 31
-  GREEN = 32
+  GRAY   = 30
+  RED    = 31
+  GREEN  = 32
   YELLOW = 33
-  BLUE = 34
+  BLUE   = 34
   PURPLE = 35
-  NEON = 36
+  NEON   = 36
 end
 
 class String
